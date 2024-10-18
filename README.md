@@ -1,4 +1,4 @@
-🏈 ## NFL Decision-Making with Machine Learning: Play & Scheme Prediction
+🏈 NFL Decision-Making with Machine Learning: Play & Scheme Prediction
 Welcome to the NFL Decision-Making with Machine Learning project, where we dive deep into some of the most complex challenges faced by NFL teams. This repository showcases how machine learning can be used to analyze game data, predict outcomes, and assist coaches and teams in making data-driven decisions during high-stakes situations.
 
 🚀 The Challenge
