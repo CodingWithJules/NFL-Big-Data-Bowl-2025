@@ -54,7 +54,3 @@ Feel free to fork, improve, and contribute to the project! Whether it's adding n
 ---
 
 Enjoy making data-driven NFL decisions with the power of **machine learning**! 🏆📊
-
-1. **Clone the repo**: 
-   ```bash
-   git clone https://github.com/yourusername/nfl-ml-decisionmaking.git
